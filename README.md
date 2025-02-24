@@ -15,12 +15,12 @@ I'm Nam
 
 
 
-## 📫 How to Reach Me
+## 📫 Contact Me
 - 📧 Email: namdo6069@gmail.com
 - 📘 Facebook: [Nam Đỗ](https://www.facebook.com/3k2oamoam)
 
 ## 🖥️ Programming Languages in My Repositories
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamDo2901&layout=compact&theme=radical)
 
-## How to code with me
-##[Coding](https://www.w3schools.com/)
+## My coding website 
+💻 [Coding](https://www.w3schools.com/)
